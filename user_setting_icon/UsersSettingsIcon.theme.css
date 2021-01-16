@@ -9,6 +9,8 @@
 /* Base : */
 @import url("https://slyeyes.github.io/user_setting_icon/base.css");
 
+/* You can use your own icon. Just change the image link below. */
+
 :root {
 
     /* Discord's menu icon : */
@@ -44,10 +46,13 @@
     --css:           url(https://arudarin.github.io/themes/icons/css.png);
 }
 
-/* More icon :
+/* 
+More icon :
 https://arudarin.github.io/themes/icons/gamepad.png
 https://arudarin.github.io/themes/icons/experiments.png
 https://arudarin.github.io/themes/icons/dev_options.png
 https://arudarin.github.io/themes/icons/bandages.png 
 https://arudarin.github.io/themes/icons/activity_feed.png
+
+Check his work : https://github.com/Arudarin
 */
