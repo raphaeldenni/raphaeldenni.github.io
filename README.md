@@ -5,9 +5,10 @@ My name is Raphaël Denni aka SlyEyes. I coding in HTML, CSS, Javascript and Pyt
 ## Projects
 
 Here are my projects :
-- [Écotidien's website](https://ecotidien.info/), for a french ecological group
-- [RoboNeko](https://github.com/SlyEyes/RoboNeko), a Discord bot [*Not published yet*]
 - [User's Settings Icons](https://github.com/SlyEyes/Users_Settings_Icons), a Discord theme with BBD
+- [RoboNeko](https://github.com/SlyEyes/RoboNeko), a Discord bot [*Not published yet*]
+- ~[Écotidien's website](about:blank), for a french ecological group~ [*Closed*]
+
 
 **To follow them, go to my [Github](https://github.com/SlyEyes).**
 
