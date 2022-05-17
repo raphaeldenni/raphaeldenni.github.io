@@ -6,9 +6,8 @@ My name is Raphaël Denni aka SlyEyes. I coding in HTML, CSS, Javascript and Pyt
 
 Here are my projects :
 - [User's Settings Icons](https://github.com/SlyEyes/Users_Settings_Icons), a Discord theme with BBD
-- [RoboNeko](https://github.com/SlyEyes/RoboNeko), a Discord bot [*Not published yet*]
-- ~[Écotidien's website](about:blank), for a french ecological group~ [*Closed*]
-
+- <strike>[Écotidien's website](about:blank), for a french ecological group</strike> [*Closed*]
+- [News Webhooks](about:blank), for the Discord server of a french political ecology association [*Coming Soon*]
 
 **To follow them, go to my [Github](https://github.com/SlyEyes).**
 
