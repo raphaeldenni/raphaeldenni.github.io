@@ -8,7 +8,7 @@ Here are my projects :
 <ul>
 <li>[User's Settings Icons](https://github.com/SlyEyes/Users_Settings_Icons), a Discord theme with BBD</li>
 <li><p><strike>Écotidien's website, for a french ecological group</strike> [<i>Closed</i>]</p></li>
-<li>[News Webhooks](about:blank), for the Discord server of a french political ecology association [*Coming Soon*]</li>
+<li>News Webhooks, for the Discord server of a french political ecology association [*Coming Soon*]</li>
 </ul>
 
 **To follow them, go to my [Github](https://github.com/SlyEyes).**
